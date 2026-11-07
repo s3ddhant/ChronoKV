@@ -1,0 +1,6 @@
+{
+  "name": "ChronoKV - LSM-Tree Storage Engine",
+  "description": "Academic-grade, lightweight in-memory and on-disk LSM-Tree key-value storage engine featuring concurrent SkipList, binary WAL with CRC32, SSTables with Bloom filters, sparse indexing, multi-way compaction, and chaos crash recovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
